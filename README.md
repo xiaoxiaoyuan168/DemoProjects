@@ -1,2 +1,1 @@
-# gitDemo
-git demo
+个人的Java学习样例工程。
